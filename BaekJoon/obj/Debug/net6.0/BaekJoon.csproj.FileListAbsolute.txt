@@ -1,0 +1,14 @@
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\bin\Debug\net6.0\BaekJoon.exe
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\bin\Debug\net6.0\BaekJoon.deps.json
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\bin\Debug\net6.0\BaekJoon.runtimeconfig.json
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\bin\Debug\net6.0\BaekJoon.dll
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\bin\Debug\net6.0\BaekJoon.pdb
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.AssemblyInfoInputs.cache
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.AssemblyInfo.cs
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.csproj.CoreCompileInputs.cache
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.dll
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\refint\BaekJoon.dll
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.pdb
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.genruntimeconfig.cache
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\ref\BaekJoon.dll

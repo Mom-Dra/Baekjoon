@@ -12,3 +12,4 @@ C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\refint\BaekJoon
 C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.pdb
 C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.genruntimeconfig.cache
 C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\ref\BaekJoon.dll
+C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon\obj\Debug\net6.0\BaekJoon.sourcelink.json

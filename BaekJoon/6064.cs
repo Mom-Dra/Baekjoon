@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -24,20 +25,41 @@ namespace BaekJoon
                 int X = arr[2];
                 int Y = arr[3];
 
-                int x = 1;
-                int y = 1;
+                Console.WriteLine(Calculate(M, N, X, Y));
+            }
+        }
 
-                int year = 1;
+        private int Calculate(int M, int N, int X, int Y)
+        {
+            int year = X;
 
-                while(!(x == X && y == Y))
-                {
-                    x = x == M ? 1 : x + 1;
-                    y = y == N ? 1 : y + 1;
-                }
+            while(year <= M * N)
+            {
+                if ((year - X) % M == 0 && (year - Y) % N == 0)
+                    return year;
 
-                Console.WriteLine(year);
+                year += M;
+            }
 
-                // Test
+            return -1;
+        }
+
+        // 시간 초과되는 함수
+        private int Find(int X, int Y, int M, int N)
+        {
+            int x = 1;
+            int y = 1;
+            int year = 1;
+
+            while (true)
+            {
+                if (x == X && y == Y) return year;
+
+                x = x == M ? 1 : x + 1;
+                y = y == N ? 1 : y + 1;
+                ++year;
+
+                if (x == 1 && y == 1) return -1;
             }
         }
     }

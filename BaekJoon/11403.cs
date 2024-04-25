@@ -37,7 +37,6 @@ namespace BaekJoon
                         {
                             arr[i, j] = 1;
                         }
-                            
                     }
                 }
             }

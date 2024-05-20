@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaekJoon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f419743c2dcaaafe27119da2ca04268f60b411")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf61d7c32fd5a3b36713f8a171d2ce7ebf24d96b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaekJoon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaekJoon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

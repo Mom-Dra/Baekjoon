@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\1107.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\1107.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\5430.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\5430.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\10026.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\10026.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\baekjoon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\baekjoon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\20529.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\20529.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\1107.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\1107.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\1074.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\1074.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\20529.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\20529.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\14940.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\2920.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\2920.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\baekjoon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\baekjoon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\15829.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\10989.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\10989.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\1074.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\1074.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\2231.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -202,17 +210,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10026.cs",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\10026.cs",
+              "RelativeDocumentMoniker": "BaekJoon\\10026.cs",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\10026.cs",
+              "RelativeToolTip": "BaekJoon\\10026.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:54:11.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "5430.cs",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\5430.cs",
+              "RelativeDocumentMoniker": "BaekJoon\\5430.cs",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\5430.cs",
+              "RelativeToolTip": "BaekJoon\\5430.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:50:39.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon\\Program.cs",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program.cs",
+              "RelativeToolTip": "BaekJoon\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-28T13:28:55.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program2.cs",
+              "RelativeDocumentMoniker": "BaekJoon\\Program2.cs",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program2.cs",
+              "RelativeToolTip": "BaekJoon\\Program2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-29T13:01:55.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Test.cs",
+              "RelativeDocumentMoniker": "BaekJoon\\Test.cs",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Test.cs",
+              "RelativeToolTip": "BaekJoon\\Test.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T12:13:55.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "1107.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1107.cs",
               "RelativeDocumentMoniker": "BaekJoon\\1107.cs",
               "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1107.cs",
               "RelativeToolTip": "BaekJoon\\1107.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAkwDEAAAANAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T01:43:27.739Z",
               "EditorCaption": ""
@@ -220,30 +293,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20529.cs",
-              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\20529.cs",
-              "RelativeDocumentMoniker": "BaekJoon\\20529.cs",
-              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\20529.cs",
-              "RelativeToolTip": "BaekJoon\\20529.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwCcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T06:41:33.246Z"
+              "Title": "BaekJoon.csproj",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\BaekJoon.csproj",
+              "RelativeDocumentMoniker": "BaekJoon\\BaekJoon.csproj",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\BaekJoon.csproj",
+              "RelativeToolTip": "BaekJoon\\BaekJoon.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T09:45:45.912Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "14940.cs",
-              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\14940.cs",
-              "RelativeDocumentMoniker": "BaekJoon\\14940.cs",
-              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\14940.cs",
-              "RelativeToolTip": "BaekJoon\\14940.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAiAAAA",
+              "DocumentIndex": 7,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Solution.cs",
+              "RelativeDocumentMoniker": "BaekJoon\\Solution.cs",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Solution.cs",
+              "RelativeToolTip": "BaekJoon\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T07:29:33.867Z"
+              "WhenOpened": "2023-07-30T10:20:25.594Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
+              "Title": "1074.cs",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1074.cs",
+              "RelativeDocumentMoniker": "BaekJoon\\1074.cs",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1074.cs",
+              "RelativeToolTip": "BaekJoon\\1074.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAuwD0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T08:12:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "15829.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\15829.cs",
               "RelativeDocumentMoniker": "BaekJoon\\15829.cs",
@@ -255,56 +343,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program.cs",
-              "RelativeDocumentMoniker": "BaekJoon\\Program.cs",
-              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program.cs",
-              "RelativeToolTip": "BaekJoon\\Program.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFkAAAAWAAAA",
+              "DocumentIndex": 10,
+              "Title": "14940.cs",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\14940.cs",
+              "RelativeDocumentMoniker": "BaekJoon\\14940.cs",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\14940.cs",
+              "RelativeToolTip": "BaekJoon\\14940.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-07-28T13:28:55.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program2.cs",
-              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program2.cs",
-              "RelativeDocumentMoniker": "BaekJoon\\Program2.cs",
-              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program2.cs",
-              "RelativeToolTip": "BaekJoon\\Program2.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-07-29T13:01:55.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Solution.cs",
-              "RelativeDocumentMoniker": "BaekJoon\\Solution.cs",
-              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Solution.cs",
-              "RelativeToolTip": "BaekJoon\\Solution.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-07-30T10:20:25.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Test.cs",
-              "RelativeDocumentMoniker": "BaekJoon\\Test.cs",
-              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Test.cs",
-              "RelativeToolTip": "BaekJoon\\Test.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-26T12:13:55.446Z"
+              "WhenOpened": "2024-04-24T07:29:33.867Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "20529.cs",
+              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\20529.cs",
+              "RelativeDocumentMoniker": "BaekJoon\\20529.cs",
+              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\20529.cs",
+              "RelativeToolTip": "BaekJoon\\20529.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:41:33.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "5525.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\5525.cs",
               "RelativeDocumentMoniker": "BaekJoon\\5525.cs",
@@ -316,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "6064.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\6064.cs",
               "RelativeDocumentMoniker": "BaekJoon\\6064.cs",
@@ -328,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "11403.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\11403.cs",
               "RelativeDocumentMoniker": "BaekJoon\\11403.cs",
@@ -340,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "2920.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\2920.cs",
               "RelativeDocumentMoniker": "BaekJoon\\2920.cs",
@@ -352,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "27866.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\27866.cs",
               "RelativeDocumentMoniker": "BaekJoon\\27866.cs",
@@ -364,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "25083.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\25083.cs",
               "RelativeDocumentMoniker": "BaekJoon\\25083.cs",
@@ -376,19 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaekJoon.csproj",
-              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\BaekJoon.csproj",
-              "RelativeDocumentMoniker": "BaekJoon\\BaekJoon.csproj",
-              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\BaekJoon.csproj",
-              "RelativeToolTip": "BaekJoon\\BaekJoon.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-27T09:45:45.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "2579.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\2579.cs",
               "RelativeDocumentMoniker": "BaekJoon\\2579.cs",
@@ -400,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "2798.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\2798.cs",
               "RelativeDocumentMoniker": "BaekJoon\\2798.cs",
@@ -412,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "11047.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\11047.cs",
               "RelativeDocumentMoniker": "BaekJoon\\11047.cs",
@@ -424,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "1003.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1003.cs",
               "RelativeDocumentMoniker": "BaekJoon\\1003.cs",
@@ -436,19 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "1074.cs",
-              "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1074.cs",
-              "RelativeDocumentMoniker": "BaekJoon\\1074.cs",
-              "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1074.cs",
-              "RelativeToolTip": "BaekJoon\\1074.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAuwG4AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-01T08:12:08.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "1620.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1620.cs",
               "RelativeDocumentMoniker": "BaekJoon\\1620.cs",
@@ -460,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "17219.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\17219.cs",
               "RelativeDocumentMoniker": "BaekJoon\\17219.cs",
@@ -472,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "2630.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\2630.cs",
               "RelativeDocumentMoniker": "BaekJoon\\2630.cs",
@@ -484,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "11724.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\11724.cs",
               "RelativeDocumentMoniker": "BaekJoon\\11724.cs",
@@ -496,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "10989.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\10989.cs",
               "RelativeDocumentMoniker": "BaekJoon\\10989.cs",
@@ -508,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "11727.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\11727.cs",
               "RelativeDocumentMoniker": "BaekJoon\\11727.cs",
@@ -520,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "2475.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\2475.cs",
               "RelativeDocumentMoniker": "BaekJoon\\2475.cs",
@@ -532,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "21736.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\21736.cs",
               "RelativeDocumentMoniker": "BaekJoon\\21736.cs",
@@ -544,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Floyd.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Floyd.cs",
               "RelativeDocumentMoniker": "BaekJoon\\Floyd.cs",
@@ -556,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "2231.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\2231.cs",
               "RelativeDocumentMoniker": "BaekJoon\\2231.cs",
@@ -568,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "11050.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\11050.cs",
               "RelativeDocumentMoniker": "BaekJoon\\11050.cs",
@@ -580,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "4153.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\4153.cs",
               "RelativeDocumentMoniker": "BaekJoon\\4153.cs",
@@ -592,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "1389.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1389.cs",
               "RelativeDocumentMoniker": "BaekJoon\\1389.cs",
@@ -604,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "17626.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\17626.cs",
               "RelativeDocumentMoniker": "BaekJoon\\17626.cs",
@@ -616,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "11723.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\11723.cs",
               "RelativeDocumentMoniker": "BaekJoon\\11723.cs",
@@ -628,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "9461.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\9461.cs",
               "RelativeDocumentMoniker": "BaekJoon\\9461.cs",
@@ -640,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "9095.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\9095.cs",
               "RelativeDocumentMoniker": "BaekJoon\\9095.cs",
@@ -652,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "9375.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\9375.cs",
               "RelativeDocumentMoniker": "BaekJoon\\9375.cs",
@@ -664,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "11726.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\11726.cs",
               "RelativeDocumentMoniker": "BaekJoon\\11726.cs",
@@ -676,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "18870.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\18870.cs",
               "RelativeDocumentMoniker": "BaekJoon\\18870.cs",
@@ -688,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "1186.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1186.cs",
               "RelativeDocumentMoniker": "BaekJoon\\1186.cs",
@@ -700,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "1764.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1764.cs",
               "RelativeDocumentMoniker": "BaekJoon\\1764.cs",
@@ -712,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "2108.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\2108.cs",
               "RelativeDocumentMoniker": "BaekJoon\\2108.cs",
@@ -724,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "11659.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\11659.cs",
               "RelativeDocumentMoniker": "BaekJoon\\11659.cs",
@@ -736,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "1463.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1463.cs",
               "RelativeDocumentMoniker": "BaekJoon\\1463.cs",
@@ -748,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "2609.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\2609.cs",
               "RelativeDocumentMoniker": "BaekJoon\\2609.cs",
@@ -760,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "1259.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1259.cs",
               "RelativeDocumentMoniker": "BaekJoon\\1259.cs",
@@ -772,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "1966.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\1966.cs",
               "RelativeDocumentMoniker": "BaekJoon\\1966.cs",

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\7662.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\10026.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\10026.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\10026.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|solutionrelative:baekjoon\\10026.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E84460D2-D522-43F2-AC44-5D7A759B8DD0}|BaekJoon\\BaekJoon.csproj|c:\\users\\huiyong\\source\\repos\\baekjoon\\baekjoon\\5430.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -224,20 +224,20 @@
               "RelativeDocumentMoniker": "BaekJoon\\7662.cs",
               "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\7662.cs",
               "RelativeToolTip": "BaekJoon\\7662.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwDAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T08:29:43.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "10026.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\10026.cs",
               "RelativeDocumentMoniker": "BaekJoon\\10026.cs",
               "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\10026.cs",
               "RelativeToolTip": "BaekJoon\\10026.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAuwHMAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T05:54:11.956Z",
               "EditorCaption": ""
@@ -252,18 +252,17 @@
               "RelativeToolTip": "BaekJoon\\5430.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T10:50:39.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T10:50:39.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon\\Program.cs",
               "ToolTip": "C:\\Users\\HuiYong\\source\\repos\\BaekJoon\\BaekJoon\\Program.cs",
               "RelativeToolTip": "BaekJoon\\Program.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFkAAAAWAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-07-28T13:28:55.864Z",
               "EditorCaption": ""

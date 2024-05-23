@@ -87,5 +87,5 @@ int GetMajority(int[] arr)
 
 
 
-Solution sol = new _10026();
+Solution sol = new _7662();
 sol.Solve();

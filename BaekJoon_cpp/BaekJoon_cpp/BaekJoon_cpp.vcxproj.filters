@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="헤더 파일\Numbers">
+      <UniqueIdentifier>{d836dd76-a17d-49e2-abf9-15f521e13750}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -24,8 +27,28 @@
     <ClCompile Include="1676.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Test.cpp">
+    <ClCompile Include="sort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Solution.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>헤더 파일\Numbers</Filter>
+    </ClInclude>
+    <ClInclude Include="Test2.h">
+      <Filter>헤더 파일\Numbers</Filter>
+    </ClInclude>
+    <ClInclude Include="9019.h">
+      <Filter>헤더 파일\Numbers</Filter>
+    </ClInclude>
+    <ClInclude Include="14500.h">
+      <Filter>헤더 파일\Numbers</Filter>
+    </ClInclude>
+    <ClInclude Include="7662.h">
+      <Filter>헤더 파일\Numbers</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

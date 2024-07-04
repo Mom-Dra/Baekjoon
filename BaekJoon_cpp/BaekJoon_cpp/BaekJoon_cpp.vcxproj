@@ -130,7 +130,15 @@
     <ClCompile Include="10989.cpp" />
     <ClCompile Include="1676.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Test.cpp" />
+    <ClCompile Include="sort.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="14500.h" />
+    <ClInclude Include="7662.h" />
+    <ClInclude Include="9019.h" />
+    <ClInclude Include="Solution.h" />
+    <ClInclude Include="Test.h" />
+    <ClInclude Include="Test2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

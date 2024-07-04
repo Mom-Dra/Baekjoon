@@ -1,4 +1,2 @@
-﻿  Test.cpp
-C:\Users\HuiYong\source\repos\BaekJoon_cpp\BaekJoon_cpp\Test.cpp(38,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
-C:\Users\HuiYong\source\repos\BaekJoon_cpp\BaekJoon_cpp\Test.cpp(39,8): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
-  BaekJoon_cpp.vcxproj -> C:\Users\HuiYong\source\repos\BaekJoon_cpp\x64\Debug\BaekJoon_cpp.exe
+﻿  main.cpp
+  BaekJoon_cpp.vcxproj -> C:\Users\HuiYong\source\repos\BaekJoon\BaekJoon_cpp\x64\Debug\BaekJoon_cpp.exe

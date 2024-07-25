@@ -3,11 +3,8 @@
 
 int main()
 {
-    std::ios::sync_with_stdio(false);
-    std::cin.tie(nullptr);
-    std::cout.tie(nullptr);
-
     std::queue<int> q;
+    std::vector<int> arr;
     int n, k;
     int count{ 0 };
 
@@ -18,25 +15,34 @@ int main()
         q.push(i);
     }
 
-    std::cout << '<';
-
+    
     while (!q.empty())
     {
-        for (int i = 0; i < k - 1; ++i)
-        {
-            int num = q.front();
-            q.push(num);
-            q.pop();
-        }
-
         ++count;
-        if (count != n)
-            std::cout << q.front() << ", ";
-        else
-            std::cout << q.front();
 
+        int num = q.front();
         q.pop();
+
+        if (count == k)
+        {
+            arr.push_back(num);
+
+            count = 0;
+        }
+        else
+        {
+            q.push(num);
+        }
     }
+
+    std::cout << '<';
+
+    for (int i = 0; i < n - 1; ++i)
+    {
+        std::cout << arr[i] << ", ";
+    }
+
+    std::cout << arr[n - 1];
 
     std::cout << ">";
 

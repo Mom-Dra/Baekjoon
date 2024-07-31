@@ -1,6 +1,8 @@
 #include <iostream>
-#include <vector>
+#include <set>
+#include <unordered_set>
 #include <algorithm>
+#include <vector>
 
 int main()
 {  
@@ -16,15 +18,17 @@ int main()
         int n, m;
         std::cin >> n >> m;
 
-        std::vector<int> arr1;
-        std::vector<int> arr2;
+        std::vector<int> s1;
+        s1.reserve(n);
+        std::vector<int> s2;
+        s2.reserve(m);
 
         for (int j = 0; j < n; ++j)
         {
             int temp;
             std::cin >> temp;
 
-            arr1.push_back(temp);
+            s1.push_back(temp);
         }
 
         int count{ 0 };
@@ -34,21 +38,17 @@ int main()
             int temp;
             std::cin >> temp;
 
-            arr2.push_back(temp);
+            s2.push_back(temp);
         }
 
-        std::sort(arr1.begin(), arr1.end());
-        std::sort(arr2.begin(), arr2.end());
+        std::sort(s2.begin(), s2.end());
 
-        for (const int& a : arr1)
+        for (const int& k : s1)
         {
-            for (const int& b : arr2)
-            {
-                if (a > b) ++count;
-                else break;
-            }
+            std::vector<int>::iterator it = std::lower_bound(s2.begin(), s2.end(), k);
+            count += std::distance(s2.begin(), it);
         }
-       
+
         std::cout << count << '\n';
     }
 }

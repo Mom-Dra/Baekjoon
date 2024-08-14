@@ -19,15 +19,15 @@ int main()
 		arr.push_back(temp);
 	}
 
-	int target;
+	int v;
+	int count{ 0 };
 	
-	std::cin >> target;
+	std::cin >> v;
 
-	std::sort(arr.begin(), arr.end());
+	for (int i = 0; i < n; ++i)
+	{
+		if (arr[i] == v) ++count;
+	}
 
-	auto low = std::lower_bound(arr.begin(), arr.end(), target);
-	auto high = std::upper_bound(arr.begin(), arr.end(), target);
-
-	if (low == arr.end()) std::cout << 0;
-	else std::cout << std::distance(low, high);
+	std::cout << count;
 }

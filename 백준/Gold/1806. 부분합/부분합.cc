@@ -19,18 +19,15 @@ int Solve(const std::vector<int>& arr, const int N, const int S)
             canSum = true;
             
             min = std::min(min, right - left);
-        }
 
-        if(sum < S)
-        {
-            if(right == N) break;
-            sum += arr[right];
-            ++right;
+            sum -= arr[left];
+            ++left;
         }
         else
         {
-            sum -= arr[left];
-            ++left;
+            if(right == N) break;   
+            sum += arr[right];
+            ++right;
         }
     }
             

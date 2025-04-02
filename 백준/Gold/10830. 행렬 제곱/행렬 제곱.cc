@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <unordered_map>
 
 long long Dot(const std::vector<int>& a, const std::vector<int>& b)
 {
@@ -37,15 +36,20 @@ std::vector<std::vector<int>> Mul(const std::vector<std::vector<int>>& a, const 
     return result;
 }
 
-std::unordered_map<long long, std::vector<std::vector<int>>> uMap;
 std::vector<std::vector<int>> Solve(const std::vector<std::vector<int>>& A, int N, long long B)
 {
-    if (uMap.find(B) != uMap.end()) return uMap[B];
+    if (B == 1) return A;
 
-    if (B % 2 == 0) uMap.emplace(B, Mul(Solve(A, N, B / 2), Solve(A, N, B / 2), N));
-    else uMap.emplace(B, Mul(Mul(Solve(A, N, B / 2), Solve(A, N, B / 2), N), A, N));
+    std::vector<std::vector<int>> half{ Solve(A, N, B / 2) };
 
-    return uMap[B];
+    if (B % 2 == 0)
+    {
+        return Mul(half, half, N);
+    }
+    else 
+    {
+        return Mul(Mul(half, half, N), A, N);
+    }
 }
 
 int main()
@@ -69,8 +73,6 @@ int main()
             A[i][j] %= 1000;
         }
     }
-
-    uMap.emplace(1, A);
 
     std::vector<std::vector<int>> result{ Solve(A, N, B) };
 

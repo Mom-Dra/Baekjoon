@@ -1,30 +1,38 @@
 #include <iostream>
 #include <vector>
-#include <limits>
+#include <array>
 #include <algorithm>
 
 int main()
 {
-    std::ios_base::sync_with_stdio(false);
-    std::cin.tie(nullptr);
-    std::cout.tie(nullptr);
+	int N;
+	std::cin >> N;
 
-    int n;
+	std::vector<std::array<int, 3>> cost(N);
 
-    std::cin >> n;
+	for (auto& arr : cost)
+	{
+		for (auto& num : arr)
+		{
+			std::cin >> num;
+		}
+	}
 
-    std::vector<std::vector<int>> arr(n + 1, std::vector<int>(3));
+	std::vector<std::array<int, 3>> dp(N, std::array<int, 3>{0, 0, 0});
 
-    for (int i = 1; i <= n; ++i)
-    {
-	    std::cin >> arr[i][0];
-	    std::cin >> arr[i][1];
-	    std::cin >> arr[i][2];
+	for (int i{ 0 }; i < 3; ++i)
+	{
+		dp[0][i] = cost[0][i];
+	}
 
-	    arr[i][0] += std::min(arr[i - 1][1], arr[i - 1][2]);
-	    arr[i][1] += std::min(arr[i - 1][0], arr[i - 1][2]);
-	    arr[i][2] += std::min(arr[i - 1][0], arr[i - 1][1]);
-    }
+	for (int i{ 1 }; i < N; ++i)
+	{
+		dp[i][0] = cost[i][0] + std::min(dp[i - 1][1], dp[i - 1][2]);
+		dp[i][1] = cost[i][1] + std::min(dp[i - 1][0], dp[i - 1][2]);
+		dp[i][2] = cost[i][2] + std::min(dp[i - 1][0], dp[i - 1][1]);
+	}
 
-    std::cout << std::min({ arr[n][0], arr[n][1], arr[n][2] });
+	std::cout << std::min({ dp[N - 1][0], dp[N - 1][1], dp[N - 1][2] });
+
+	return 0;
 }
